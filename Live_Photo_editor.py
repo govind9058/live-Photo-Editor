@@ -186,7 +186,6 @@ while True:
 
  display = cv2.resize(display, (new_w, new_h))
 
- #cv2.imshow(window_name, display)
  cv2.imshow(window_name, display)
 
 
