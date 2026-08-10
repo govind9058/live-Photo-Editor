@@ -43,8 +43,15 @@ The project allows users to load an image and edit it instantly using sliders an
 | S | Save Image |
 | Q | Quit |
 
-## 🚀 How to Run
+## What I Learned
+- How to use Python and OpenCV for image processing.
+- How to work with images using NumPy arrays.
+- How to create a simple GUI using OpenCV and Tkinter.
+- How to handle image loading and saving using a GUI.
+- How to use OpenCV trackbars (sliders) for real-time image editing.
+- How to use Git and GitHub to manage and publish a project.
 
+## 🚀 How to Run
 ### 1. Clone the repository
 
 ```bash
