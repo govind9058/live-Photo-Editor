@@ -111,7 +111,7 @@ def prepare_display_image(image):
 
 BUTTONS = np.zeros((300, 400, 3), dtype=np.uint8)
 
-cv2.putText(KEYBOARD BUTTONS, "BUTTONS", (70, 35),
+cv2.putText(BUTTONS, "KEYBOARD BUTTONS", (70, 35),
             cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255,255,255), 2)
 
 keys = [
