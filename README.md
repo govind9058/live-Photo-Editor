@@ -50,6 +50,7 @@ The project allows users to load an image and edit it instantly using sliders an
 - How to use OpenCV trackbars (sliders) for real-time image editing.
 - How to use Git and GitHub to manage and publish a project.
 
+## Project Screenshot 
 - ![Project Screenshot](Screenshot.png)
 
 ## 🚀 How to Run
