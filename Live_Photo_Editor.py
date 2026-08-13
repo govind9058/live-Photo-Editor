@@ -117,7 +117,7 @@ cv2.putText(BUTTONS, "BUTTONS", (70, 35),
 keys = [
     "H = Flip Horizontal",        "V = Flip Vertical",
     "R = Rotate 90",              "G = Grayscale",
-    "O = Reset Original",         "C = Compare",
+    "O = Reset Original",         "U = Undo/Redo",
     "S = Save Image",             "Q = Quit"
 ]
 
