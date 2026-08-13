@@ -17,7 +17,6 @@ The project allows users to load an image and edit it instantly using sliders an
 - ⚫ Grayscale conversion
 - 🔙 Undo / Redo
 - ♻️ Reset to original image
-- 🆚 Original vs Edited image comparison
 - 💾 Save edited image
 - 📁 Choose images from PC
 - 🎚️ Real-time slider controls
